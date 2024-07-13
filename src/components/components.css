@@ -51,7 +51,7 @@ img {
 }
 
 /*
- Searchbar
+  Searchbar
  */
 .Searchbar {
   top: 0;
@@ -113,6 +113,7 @@ img {
   white-space: nowrap;
   clip-path: inset(50%);
   border: 0;
+  color: #212121;
 }
 
 .SearchForm-input {
